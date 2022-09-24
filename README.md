@@ -1,13 +1,12 @@
 # About me
 
-## 颜聿辰 北京师范大学 政府管理学院 信息管理与信息系统本科生
+## 颜聿辰 浙江大学 软件学院硕士研究生
 + 自然语言处理
-+ 文献计量
-+ 科技实体研究
++ 知识图谱
 
 
 # Contact Me
-## Email：yanyuchen0428@163.com
+## Email：yanyuchen@zju.edu.cn
 
 <!---
 Bonsior-yyc/Bonsior-yyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
