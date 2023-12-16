@@ -1,9 +1,9 @@
 # About me
 
-## 颜聿辰 浙江大学 软件学院硕士研究生
-+ 自然语言处理
-+ 知识图谱
-
+### Yuchen Yan 
++ Natural Language Processing
++ Knowledge Graph
++ Large Language Models
 
 # Contact Me
 ## Email：yanyuchen@zju.edu.cn
