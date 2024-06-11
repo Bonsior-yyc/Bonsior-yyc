@@ -2,8 +2,8 @@
 
 ### Yuchen Yan 
 + Natural Language Processing
++ Large-scale Language Models
 + Knowledge Graph
-+ Large Language Models
 
 # Contact Me
 ## Email：yanyuchen@zju.edu.cn
