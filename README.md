@@ -5,7 +5,7 @@
 + Large-scale Language Models
 + Knowledge Graph
 
-# Contact Me
+# Contact
 ## Email：yanyuchen@zju.edu.cn
 
 <!---
